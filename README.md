@@ -1,1 +1,1 @@
-# public
+# Gitter: jenkinsci-ru public chat
